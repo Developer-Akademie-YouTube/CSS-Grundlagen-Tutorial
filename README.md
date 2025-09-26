@@ -76,12 +76,6 @@ Nein, das Tutorial ist für absolute Anfänger gemacht.
 
 ---
 
-## 🤝 Mitmachen
-
-- Feedback gerne als **Issue** im Repo posten  
-- Pull Requests mit Verbesserungen sind willkommen  
-
----
 
 ## 📜 Lizenz
 
